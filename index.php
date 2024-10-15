@@ -118,16 +118,31 @@
                     Crie uma conta
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Aproveite ofertas para comprar tudo que quiser</h5>
-                    <img src="imagens/resgister.jpg" class="card-img-top" style="max-height: 300px; object-fit: cover;">
+                    <h5 class="card-title">Registre-se</h5>
+                    <img src="imagens/registro.png" class="card-img-top" style="max-height: 300px; object-fit: cover;">
                     <div class="button-container">
-                        <a href="Cadastrar_Barbeiro.php" class="btn btn-primary">Criar sua conta</a>
+                        <a href="Cadastrar_Usuarios.php" class="btn btn-primary">Criar sua conta</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card text-center h-100">
+                <div class="card-header">
+                    Agendamento
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Nossos barbeiros são de qualidade!</h5>
+                    <img src="imagens/agenda.png" class="card-img-top" style="max-height: 300px; object-fit: cover;">
+                    <div class="button-container">
+                        <a href="Cadastrar_Agenda.php" class="btn btn-primary">Agendar</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 
 </body>
 </html>
